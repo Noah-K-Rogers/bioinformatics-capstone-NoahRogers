@@ -1,2 +1,2 @@
 # bioinformatics-capstone-NoahRogers
-Assembling, nnotating, and analyzing the genome of multiple bacterial genomes
+Assembling, annotating, and analyzing the genome of multiple bacterial genomes
